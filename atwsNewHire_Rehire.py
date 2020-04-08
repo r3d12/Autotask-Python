@@ -95,9 +95,9 @@ stores = {
 }
 #autotask API connection
 at = atws.connect(username='apiuser@berkshirehathawayautomotive.com',
-                  password='z3YvaTvXbcSPq0LnNoN0',
+                  password='--',
                   apiversion=1.6,
-                  integrationcode='H2FATPVKPDN25IXIBSMN5K66XAA')
+                  integrationcode='--')
 
 #pandas data file read
 data = pd.read_excel("./Daily Hire Rehire Report-Service Desk V2 3.12.2020.xls")
