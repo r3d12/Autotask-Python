@@ -94,7 +94,7 @@ stores = {
         "WFT":   267
 }
 #autotask API connection
-at = atws.connect(username='apiuser@berkshirehathawayautomotive.com',
+at = atws.connect(username='apiuser@domain.com',
                   password='--',
                   apiversion=1.6,
                   integrationcode='--')
